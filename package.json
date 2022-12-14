@@ -1,0 +1,28 @@
+{
+  "name": "oraltest",
+  "version": "1.0.0",
+  "description": "Thanks for downloading this template!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weihaolai/weblesson.git"
+  },
+  "keywords": [
+    "git",
+    "hub",
+    "npm"
+  ],
+  "author": "owen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weihaolai/weblesson/issues"
+  },
+  "homepage": "https://github.com/weihaolai/weblesson#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.3",
+    "npmpackage": "^0.0.1"
+  }
+}
